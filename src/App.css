@@ -7,11 +7,20 @@
   font-family: 'Roboto', sans-serif;
 }
 
-.home, .reports, .requests{
+.home, .reports{
   display: flex;
   height: 90vh;
   align-items: center;
   justify-content: center;
   size: 3rem;
   font-size: 10rem;
+}
+
+.requests{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  size: 3rem;
+  font-size: 2rem;
 }
