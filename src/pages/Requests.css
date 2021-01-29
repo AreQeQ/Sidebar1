@@ -1,4 +1,10 @@
 .requests {
+    display: flex;
+    align-content: center;
+    align-items: center;
     justify-content: center;
-
+    flex-direction: column;
+}
+.requests > div{
+    padding-bottom: 10px;
 }
